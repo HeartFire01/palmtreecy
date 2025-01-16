@@ -1,5 +1,5 @@
 # palmtreecy8
-This program can detect and count using YOLOv8 model and custom dataset
+This program can detect and count palm tree using YOLOv8 model and custom dataset
 
 For YOLOv8 installation, type this command : 
 `pip install ultralytics`
