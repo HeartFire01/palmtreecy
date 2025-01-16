@@ -8,10 +8,10 @@ For YOLOv8 installation, type this command :
 
 Link to the sample section: [https://docs.ultralytics.com/models/yolov8/](#sample-section).
 
-For requirements, type this command :
-`pip install -r /path/to/requirements.txt`
 
-The program was run in AMD Ryzen 7 7435HS, RTX 4060 Laptop
+## Prerequisite
+
+Install library from requirements.txt with command : `pip install -r requirements.txt `
 
 ## Step to use this :
 
@@ -19,3 +19,5 @@ The program was run in AMD Ryzen 7 7435HS, RTX 4060 Laptop
 2. Preparing the dataset
 3. Training the model using dataset in Train.pynb
 4. Use the pre-trained model and declare the path of the model was saved in PalmTreeCounter.ipynb to detect and count the image of palm tree taken and saved in aerial view mode
+
+ 
