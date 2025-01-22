@@ -1,5 +1,5 @@
 # palmtreecy8
-This program can detect and count palm tree using YOLOv8 model and custom dataset
+This program can detect and count palm trees using YOLO, especially YOLOv8 model and custom dataset
 
 For YOLOv8 installation, type this command : 
 `pip install ultralytics`
@@ -17,7 +17,7 @@ Install library from requirements.txt with command : `pip install -r requirement
 
 1. You must have YOLOv8 model first like yolov8n.pt etc
 2. Preparing the dataset
-3. Training the model using dataset in Train.pynb
+3. Training the model using the dataset in Train.pynb
 4. Use the pre-trained model and declare the path of the model was saved in PalmTreeCounter.ipynb to detect and count the image of palm tree taken and saved in aerial view mode
 
  
